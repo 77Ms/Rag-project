@@ -32,8 +32,6 @@ MemRag/
 ├── data/                           # 示例知识库数据
 │   ├── 海绵宝宝.txt
 │   ├── 精灵宝可梦.txt
-│   ├── 猫和老鼠汤姆和杰瑞.txt
-│   ├── 蟹黄堡制作配方.txt
 │   ├── 哆啦 A 梦.txt
 │   └── 火影忍者.txt
 ├── requirements.txt
